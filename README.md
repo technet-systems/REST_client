@@ -1,4 +1,4 @@
-# Rest Client for Producers
+# Example Code for a Rest Client App
 
 A small PHP application (written in pure OO PHP) that provides POST and GET requests to an API.
 
