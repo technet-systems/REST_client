@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Daru79\\": "src/daru79/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5"
+  }
+}
